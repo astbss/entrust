@@ -9,9 +9,6 @@
 
 Entrust is a succinct and flexible way to add Role-based Permissions to **Laravel 5.4 and 5.5**.
 
-If you are looking for the Laravel 4 version, take a look [Branch 1.0](https://github.com/Zizaco/entrust/tree/1.0). It
-contains the latest entrust version for Laravel 4.
-
 ## Contents
 
 - [Installation](#installation)
@@ -40,7 +37,7 @@ contains the latest entrust version for Laravel 4.
 1) In order to install Laravel 5 Entrust, just add the following to your composer.json. Then run `composer update`:
 
 ```json
-"zizaco/entrust": "5.2.x-dev"
+ "astbss/entrust54": "^5.4"
 ```
 
 2) Open your `config/app.php` and add the following to the `providers` array:
