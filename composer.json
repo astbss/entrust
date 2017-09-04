@@ -20,6 +20,11 @@
         {
             "name": "Michele Angioni",
             "email": "michele.angioni@gmail.com"
+        },
+        {
+            "name": "Are Casilla",
+            "homepage": "https://astbss.github.io",
+            "email": "are at astbss.com"
         }
     ],
     "require": {
