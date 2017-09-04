@@ -1,6 +1,6 @@
 {
     "name": "astbss/entrust54",
-    "description": "This package provides a flexible way to add Role-based Permissions to Laravel 5.4 and higher",
+    "description": "This package provides a flexible way to add Role-based Permissions to Laravel 5.4 or higher",
     "keywords": ["laravel","illuminate","auth","roles","acl","permission","astbss"],
     "homepage": "https://github.com/astbss/entrust54",
     "license": "MIT",
