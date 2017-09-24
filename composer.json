@@ -55,7 +55,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Zizaco\Entrust\\EntrustServiceProvider"
+                "Zizaco\\Entrust\\EntrustServiceProvider"
             ],
             "aliases": {
                 "Entrust": "Zizaco\\Entrust\\EntrustFacade",
