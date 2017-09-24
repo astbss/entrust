@@ -58,7 +58,7 @@
                 "Zizaco\Entrust\\EntrustServiceProvider"
             ],
             "aliases": {
-                "Entrust": "Zizaco\Entrust\EntrustFacade",
+                "Entrust": "Zizaco\\Entrust\\EntrustFacade",
             }
         }
     },    
